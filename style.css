@@ -1,0 +1,57 @@
+
+.section-one {
+    background: url(images/imgOne.jpg) center center/cover;
+    height: 100vh;
+}
+nav {
+    z-index: 999;
+}
+
+/* ================================================= */
+#btn-serch {
+    padding-top: 10%;
+    position: absolute;
+    height: 100px;
+    bottom: 67%;
+    left: 13%;
+    border-radius: 5%;
+}
+input {
+    margin-left: 5px;
+}
+#btn-serch form {
+    background-color: #F5F5F5;
+    display: flex;
+    padding: 3%;
+}
+#btn-serch form #max-price {
+    margin-left: 1%;
+}
+#btn-serch form #min-Price {
+    margin-left: 1%;
+}
+
+
+
+/* =========================buttons add Announce======================== */
+#btn-add {
+    position: absolute;
+    left: 41%;
+    bottom: 13%;
+    width: 22%;
+    height: 8%;
+}
+
+#add-announce {
+    
+}
+/* ================================================= */
+
+.btn-delet {
+    background-color: #FF0000;
+}
+.btn-edit{
+    background-color: #4748BA;
+}
+/* =======================  footer ========================== */
+/* 
